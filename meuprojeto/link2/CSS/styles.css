@@ -1,0 +1,48 @@
+body{
+
+    color: #D9D9D9;
+       font-family: "Raleway", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+  
+        background-color:#0D0D0D        ;
+
+    text-align: center;
+}
+
+p{
+    font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+
+    color:#D9D9D9    ;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+img {
+    height: 400px;
+    width: 20%;
+    border-radius: 100px ;
+    
+    max-width:400px;
+    max-height:400px;
+    width: auto;
+    height: auto;
+
+    border-radius: 100px;
+
+
+}
+
+    
+
+a:link {
+    text-decoration: none;
+    font-weight: 700;
+    background-color:#D9D9D9;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+
+}
